@@ -14,7 +14,7 @@ Then run the commands inside the project folder (if you have virtualenv installe
 ```
 python -m virtualenv env
 ```
-Or
+Or (to install virtualenv first)
 ```
 pip install virtualenv
 python -m virtualenv env
