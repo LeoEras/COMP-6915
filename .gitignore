@@ -1,0 +1,4 @@
+env/*
+datasets/*.csv
+datasets/*.jpg
+datasets/*.png
