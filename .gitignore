@@ -4,3 +4,4 @@ datasets/*.jpeg
 datasets/*.png
 datasets/chest_xray
 .ipynb*
+__pycache__
